@@ -716,7 +716,7 @@ const data = [
 
 //train ai
 //works best when inputs are 0-1 values
-net.train(data2);
+net.train(data);
 
 const colorE1 = document.getElementById('color');
 const guessE1 = document.getElementById('guess');
