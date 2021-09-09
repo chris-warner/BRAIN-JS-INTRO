@@ -13,6 +13,7 @@ const data = [
     }
 ]
 
+//You can hit the print button and copy the training data from dev tools and paste it here.
 const data2 = [
   { input: { r: 0, g: 0, b: 0 }, output: [1] },
   { input: { r: 1, g: 1, b: 1 }, output: [0] },
